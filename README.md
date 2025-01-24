@@ -20,7 +20,6 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 
 ![New-Task.jpg](New-Task.jpg)
 
-
 3.**Работа с MySQL в Linux. “Установить MySQL на вашу вычислительную машину ”**
 
 - Подключить дополнительный репозиторий MySQL и установить один из пакетов из этого репозитория.
