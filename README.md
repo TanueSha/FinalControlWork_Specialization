@@ -12,7 +12,7 @@
 >Пример конечного вывода после команды “ls” :
 Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt  Pictures  Videos
 
-![cat-command-linux.jpg](/home/tanya/Рабочий стол/STUDY/Python/GEEKBRAINS/FinalControlWork_Specialization/FinalControlWork_Specialization/cat-command-linux.jpg "использование команды cat в Linux")
+![cat-command-linux.jpg](cat-command-linux.jpg "использование команды cat в Linux")
 
 2.**Работа с директориями в Linux**
 
