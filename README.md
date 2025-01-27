@@ -36,7 +36,7 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 
 - Сохранить и выложить [историю ваших терминальных команд](HISTORY-COMMAND.md) в Ubuntu.
 
-## Объектно-ориентированное программирование 
+## Объектно-ориентированное программирование
 
 6.**Диаграмма классов**
 
