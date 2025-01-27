@@ -24,7 +24,7 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 
 - Подключить дополнительный репозиторий MySQL и установить один из пакетов из этого репозитория.
 
-![mysql1.jpg](mysql1.jpg)
+![mysql2.jpg](mysql2.jpg)
 
 4.**Управление deb-пакетами**
 
