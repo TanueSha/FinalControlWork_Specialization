@@ -30,6 +30,8 @@ Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt 
 
 - Установить и затем удалить deb-пакет, используя команду `dpkg`.
 
+![dpkg.jpg](dpkg.jpg)
+
 5.**История команд в терминале Ubuntu**
 
 - Сохранить и выложить историю ваших терминальных команд в Ubuntu.
